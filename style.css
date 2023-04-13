@@ -178,6 +178,7 @@ section {
     padding: 6px;
     border-radius: 11px;
     transition: 0.3s ease-in-out;
+    display: none;
 }
 .por-image:hover h2 {
     border-color: #004E92;
