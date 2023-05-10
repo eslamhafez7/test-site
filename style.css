@@ -289,6 +289,8 @@ footer.social .footer-icon:hover {
 }
 .links a {
     color: #ccc;
+    transform: translateX(10px);
+    transition: 0.3s;
 }
 .links h3 {
     margin-bottom: 1rem;
